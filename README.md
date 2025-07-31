@@ -1,5 +1,12 @@
-## Hi there 👋
+## Olá, me chamo Rihana 👋
 
+Atualmente estou tentando aprender a programar
+
+<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/7cefbed1-b6b3-4c79-a5b1-9fb137499745" />
+
+pretendo  entrar na industria de desenvolvimento de jogos
+
+me desejem sorte! =)
 <!--
 **Harukiiiih/Harukiiiih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
