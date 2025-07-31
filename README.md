@@ -2,7 +2,8 @@
 
 Atualmente estou tentando aprender a programar
 
-<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/7cefbed1-b6b3-4c79-a5b1-9fb137499745" />
+<img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/ba937311-71c4-43ea-97b0-0c8c4e701dc0" />
+
 
 pretendo  entrar na industria de desenvolvimento de jogos
 
